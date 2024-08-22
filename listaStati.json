@@ -1,0 +1,1006 @@
+[
+    {
+      "codiceST": "UZ",
+      "stato": "Uzbekistan"
+    },
+    {
+      "codiceST": "QA",
+      "stato": "Qatar"
+    },
+    {
+      "codiceST": "SA",
+      "stato": "Saudi Arabia"
+    },
+    {
+      "codiceST": "AF",
+      "stato": "Afghanistan"
+    },
+    {
+      "codiceST": "LB",
+      "stato": "Lebanon"
+    },
+    {
+      "codiceST": "BH",
+      "stato": "Bahrain"
+    },
+    {
+      "codiceST": "CY",
+      "stato": "Cyprus"
+    },
+    {
+      "codiceST": "SY",
+      "stato": "Syrian Arab Republic"
+    },
+    {
+      "codiceST": "TJ",
+      "stato": "Tajikistan"
+    },
+    {
+      "codiceST": "TM",
+      "stato": "Turkmenistan"
+    },
+    {
+      "codiceST": "AE",
+      "stato": "United Arab Emirates"
+    },
+    {
+      "codiceST": "IR",
+      "stato": "Iran, Islamic Republic of"
+    },
+    {
+      "codiceST": "IQ",
+      "stato": "Iraq"
+    },
+    {
+      "codiceST": "OM",
+      "stato": "Oman"
+    },
+    {
+      "codiceST": "PK",
+      "stato": "Pakistan"
+    },
+    {
+      "codiceST": "IL",
+      "stato": "Israel"
+    },
+    {
+      "codiceST": "JO",
+      "stato": "Jordan"
+    },
+    {
+      "codiceST": "KZ",
+      "stato": "Kazakhstan"
+    },
+    {
+      "codiceST": "KW",
+      "stato": "Kuwait"
+    },
+    {
+      "codiceST": "KG",
+      "stato": "Kyrgyzstan"
+    },
+    {
+      "codiceST": "VN",
+      "stato": "Viet Nam"
+    },
+    {
+      "codiceST": "MV",
+      "stato": "Maldives"
+    },
+    {
+      "codiceST": "PH",
+      "stato": "Philippines"
+    },
+    {
+      "codiceST": "BD",
+      "stato": "Bangladesh"
+    },
+    {
+      "codiceST": "BT",
+      "stato": "Bhutan"
+    },
+    {
+      "codiceST": "BN",
+      "stato": "Brunei Darussalam"
+    },
+    {
+      "codiceST": "KH",
+      "stato": "Cambodia"
+    },
+    {
+      "codiceST": "TL",
+      "stato": "Timor-Leste"
+    },
+    {
+      "codiceST": "SG",
+      "stato": "Singapore"
+    },
+    {
+      "codiceST": "LK",
+      "stato": "Sri Lanka"
+    },
+    {
+      "codiceST": "TH",
+      "stato": "Thailand"
+    },
+    {
+      "codiceST": "NP",
+      "stato": "Nepal"
+    },
+    {
+      "codiceST": "LA",
+      "stato": "Lao People's Democratic Republic"
+    },
+    {
+      "codiceST": "YE",
+      "stato": "Yemen"
+    },
+    {
+      "codiceST": "GE",
+      "stato": "Georgia"
+    },
+    {
+      "codiceST": "AM",
+      "stato": "Armenia"
+    },
+    {
+      "codiceST": "AZ",
+      "stato": "Azerbaijan"
+    },
+    {
+      "codiceST": "DT",
+      "stato": "Disputed Territory"
+    },
+    {
+      "codiceST": "MY",
+      "stato": "Malaysia"
+    },
+    {
+      "codiceST": "IO",
+      "stato": "British Indian Ocean Territory"
+    },
+    {
+      "codiceST": "IN",
+      "stato": "India"
+    },
+    {
+      "codiceST": "ID",
+      "stato": "Indonesia"
+    },
+    {
+      "codiceST": "MM",
+      "stato": "Myanmar"
+    },
+    {
+      "codiceST": "VU",
+      "stato": "Vanuatu"
+    },
+    {
+      "codiceST": "WF",
+      "stato": "Wallis and Futuna"
+    },
+    {
+      "codiceST": "GU",
+      "stato": "Guam"
+    },
+    {
+      "codiceST": "MH",
+      "stato": "Marshall Islands"
+    },
+    {
+      "codiceST": "PN",
+      "stato": "Pitcairn"
+    },
+    {
+      "codiceST": "WS",
+      "stato": "Samoa"
+    },
+    {
+      "codiceST": "CX",
+      "stato": "Christmas Island"
+    },
+    {
+      "codiceST": "CC",
+      "stato": "Cocos (Keeling) Islands"
+    },
+    {
+      "codiceST": "FJ",
+      "stato": "Fiji"
+    },
+    {
+      "codiceST": "TK",
+      "stato": "Tokelau"
+    },
+    {
+      "codiceST": "TO",
+      "stato": "Tonga"
+    },
+    {
+      "codiceST": "TV",
+      "stato": "Tuvalu"
+    },
+    {
+      "codiceST": "NR",
+      "stato": "Nauru"
+    },
+    {
+      "codiceST": "NC",
+      "stato": "New Caledonia"
+    },
+    {
+      "codiceST": "NU",
+      "stato": "Niue"
+    },
+    {
+      "codiceST": "NF",
+      "stato": "Norfolk Island"
+    },
+    {
+      "codiceST": "MP",
+      "stato": "Northern Mariana Islands"
+    },
+    {
+      "codiceST": "PW",
+      "stato": "Palau"
+    },
+    {
+      "codiceST": "VA",
+      "stato": "Holy See (Vatican City State)"
+    },
+    {
+      "codiceST": "MT",
+      "stato": "Malta"
+    },
+    {
+      "codiceST": "MC",
+      "stato": "Monaco"
+    },
+    {
+      "codiceST": "PL",
+      "stato": "Poland"
+    },
+    {
+      "codiceST": "RO",
+      "stato": "Romania"
+    },
+    {
+      "codiceST": "SM",
+      "stato": "San Marino"
+    },
+    {
+      "codiceST": "AL",
+      "stato": "Albania"
+    },
+    {
+      "codiceST": "LV",
+      "stato": "Latvia"
+    },
+    {
+      "codiceST": "LI",
+      "stato": "Liechtenstein"
+    },
+    {
+      "codiceST": "LT",
+      "stato": "Lithuania"
+    },
+    {
+      "codiceST": "LU",
+      "stato": "Luxembourg"
+    },
+    {
+      "codiceST": "BE",
+      "stato": "Belgium"
+    },
+    {
+      "codiceST": "BA",
+      "stato": "Bosnia and Herzegovina"
+    },
+    {
+      "codiceST": "BG",
+      "stato": "Bulgaria"
+    },
+    {
+      "codiceST": "HR",
+      "stato": "Croatia"
+    },
+    {
+      "codiceST": "DK",
+      "stato": "Denmark"
+    },
+    {
+      "codiceST": "EE",
+      "stato": "Estonia"
+    },
+    {
+      "codiceST": "FO",
+      "stato": "Faroe Islands"
+    },
+    {
+      "codiceST": "FI",
+      "stato": "Finland"
+    },
+    {
+      "codiceST": "GG",
+      "stato": "Guernsey"
+    },
+    {
+      "codiceST": "IM",
+      "stato": "Isle of Man"
+    },
+    {
+      "codiceST": "JE",
+      "stato": "Jersey"
+    },
+    {
+      "codiceST": "DE",
+      "stato": "Germany"
+    },
+    {
+      "codiceST": "GI",
+      "stato": "Gibraltar"
+    },
+    {
+      "codiceST": "GL",
+      "stato": "Greenland"
+    },
+    {
+      "codiceST": "SK",
+      "stato": "Slovakia"
+    },
+    {
+      "codiceST": "SI",
+      "stato": "Slovenia"
+    },
+    {
+      "codiceST": "SJ",
+      "stato": "Svalbard and Jan Mayen"
+    },
+    {
+      "codiceST": "SE",
+      "stato": "Sweden"
+    },
+    {
+      "codiceST": "CH",
+      "stato": "Switzerland"
+    },
+    {
+      "codiceST": "AD",
+      "stato": "Andorra"
+    },
+    {
+      "codiceST": "AT",
+      "stato": "Austria"
+    },
+    {
+      "codiceST": "HU",
+      "stato": "Hungary"
+    },
+    {
+      "codiceST": "IS",
+      "stato": "Iceland"
+    },
+    {
+      "codiceST": "NL",
+      "stato": "Netherlands"
+    },
+    {
+      "codiceST": "NO",
+      "stato": "Norway"
+    },
+    {
+      "codiceST": "IE",
+      "stato": "Ireland"
+    },
+    {
+      "codiceST": "AX",
+      "stato": "Åland Islands"
+    },
+    {
+      "codiceST": "ME",
+      "stato": "Montenegro"
+    },
+    {
+      "codiceST": "GY",
+      "stato": "Guyana"
+    },
+    {
+      "codiceST": "FK",
+      "stato": "Falkland Islands (Malvinas)"
+    },
+    {
+      "codiceST": "GF",
+      "stato": "French Guiana"
+    },
+    {
+      "codiceST": "SR",
+      "stato": "Suriname"
+    },
+    {
+      "codiceST": "UY",
+      "stato": "Uruguay"
+    },
+    {
+      "codiceST": "PY",
+      "stato": "Paraguay"
+    },
+    {
+      "codiceST": "PE",
+      "stato": "Peru"
+    },
+    {
+      "codiceST": "VG",
+      "stato": "Virgin Islands, British"
+    },
+    {
+      "codiceST": "VI",
+      "stato": "Virgin Islands, U.S."
+    },
+    {
+      "codiceST": "GP",
+      "stato": "Guadeloupe"
+    },
+    {
+      "codiceST": "HT",
+      "stato": "Haiti"
+    },
+    {
+      "codiceST": "MQ",
+      "stato": "Martinique"
+    },
+    {
+      "codiceST": "MS",
+      "stato": "Montserrat"
+    },
+    {
+      "codiceST": "KN",
+      "stato": "Saint Kitts and Nevis"
+    },
+    {
+      "codiceST": "LC",
+      "stato": "Saint Lucia"
+    },
+    {
+      "codiceST": "VC",
+      "stato": "Saint Vincent and the Grenadines"
+    },
+    {
+      "codiceST": "BB",
+      "stato": "Barbados"
+    },
+    {
+      "codiceST": "BM",
+      "stato": "Bermuda"
+    },
+    {
+      "codiceST": "KY",
+      "stato": "Cayman Islands"
+    },
+    {
+      "codiceST": "CU",
+      "stato": "Cuba"
+    },
+    {
+      "codiceST": "DM",
+      "stato": "Dominica"
+    },
+    {
+      "codiceST": "DO",
+      "stato": "Dominican Republic"
+    },
+    {
+      "codiceST": "GD",
+      "stato": "Grenada"
+    },
+    {
+      "codiceST": "TT",
+      "stato": "Trinidad and Tobago"
+    },
+    {
+      "codiceST": "TC",
+      "stato": "Turks and Caicos Islands"
+    },
+    {
+      "codiceST": "AI",
+      "stato": "Anguilla"
+    },
+    {
+      "codiceST": "AG",
+      "stato": "Antigua and Barbuda"
+    },
+    {
+      "codiceST": "AW",
+      "stato": "Aruba"
+    },
+    {
+      "codiceST": "BS",
+      "stato": "Bahamas"
+    },
+    {
+      "codiceST": "JM",
+      "stato": "Jamaica"
+    },
+    {
+      "codiceST": "EH",
+      "stato": "Western Sahara"
+    },
+    {
+      "codiceST": "DZ",
+      "stato": "Algeria"
+    },
+    {
+      "codiceST": "TN",
+      "stato": "Tunisia"
+    },
+    {
+      "codiceST": "MA",
+      "stato": "Morocco"
+    },
+    {
+      "codiceST": "ZM",
+      "stato": "Zambia"
+    },
+    {
+      "codiceST": "ZW",
+      "stato": "Zimbabwe"
+    },
+    {
+      "codiceST": "GN",
+      "stato": "Guinea"
+    },
+    {
+      "codiceST": "LY",
+      "stato": "Libya"
+    },
+    {
+      "codiceST": "GW",
+      "stato": "Guinea-Bissau"
+    },
+    {
+      "codiceST": "ML",
+      "stato": "Mali"
+    },
+    {
+      "codiceST": "MR",
+      "stato": "Mauritania"
+    },
+    {
+      "codiceST": "YT",
+      "stato": "Mayotte"
+    },
+    {
+      "codiceST": "RW",
+      "stato": "Rwanda"
+    },
+    {
+      "codiceST": "RE",
+      "stato": "Réunion"
+    },
+    {
+      "codiceST": "SN",
+      "stato": "Senegal"
+    },
+    {
+      "codiceST": "SL",
+      "stato": "Sierra Leone"
+    },
+    {
+      "codiceST": "LS",
+      "stato": "Lesotho"
+    },
+    {
+      "codiceST": "LR",
+      "stato": "Liberia"
+    },
+    {
+      "codiceST": "MG",
+      "stato": "Madagascar"
+    },
+    {
+      "codiceST": "MW",
+      "stato": "Malawi"
+    },
+    {
+      "codiceST": "BJ",
+      "stato": "Benin"
+    },
+    {
+      "codiceST": "BW",
+      "stato": "Botswana"
+    },
+    {
+      "codiceST": "BF",
+      "stato": "Burkina Faso"
+    },
+    {
+      "codiceST": "BI",
+      "stato": "Burundi"
+    },
+    {
+      "codiceST": "CM",
+      "stato": "Cameroon"
+    },
+    {
+      "codiceST": "CF",
+      "stato": "Central African Republic"
+    },
+    {
+      "codiceST": "TD",
+      "stato": "Chad"
+    },
+    {
+      "codiceST": "KM",
+      "stato": "Comoros"
+    },
+    {
+      "codiceST": "CG",
+      "stato": "Congo"
+    },
+    {
+      "codiceST": "CD",
+      "stato": "Congo, The Democratic Republic of the"
+    },
+    {
+      "codiceST": "CI",
+      "stato": "Côte d'Ivoire"
+    },
+    {
+      "codiceST": "DJ",
+      "stato": "Djibouti"
+    },
+    {
+      "codiceST": "ER",
+      "stato": "Eritrea"
+    },
+    {
+      "codiceST": "ET",
+      "stato": "Ethiopia"
+    },
+    {
+      "codiceST": "GA",
+      "stato": "Gabon"
+    },
+    {
+      "codiceST": "GM",
+      "stato": "Gambia"
+    },
+    {
+      "codiceST": "GH",
+      "stato": "Ghana"
+    },
+    {
+      "codiceST": "SO",
+      "stato": "Somalia"
+    },
+    {
+      "codiceST": "SD",
+      "stato": "Sudan"
+    },
+    {
+      "codiceST": "TZ",
+      "stato": "Tanzania, United Republic of"
+    },
+    {
+      "codiceST": "TG",
+      "stato": "Togo"
+    },
+    {
+      "codiceST": "UG",
+      "stato": "Uganda"
+    },
+    {
+      "codiceST": "MZ",
+      "stato": "Mozambique"
+    },
+    {
+      "codiceST": "NE",
+      "stato": "Niger"
+    },
+    {
+      "codiceST": "NG",
+      "stato": "Nigeria"
+    },
+    {
+      "codiceST": "KE",
+      "stato": "Kenya"
+    },
+    {
+      "codiceST": "GT",
+      "stato": "Guatemala"
+    },
+    {
+      "codiceST": "BZ",
+      "stato": "Belize"
+    },
+    {
+      "codiceST": "SV",
+      "stato": "El Salvador"
+    },
+    {
+      "codiceST": "PA",
+      "stato": "Panama"
+    },
+    {
+      "codiceST": "HM",
+      "stato": "Heard Island and McDonald Islands"
+    },
+    {
+      "codiceST": "BV",
+      "stato": "Bouvet Island"
+    },
+    {
+      "codiceST": "AQ",
+      "stato": "Antarctica"
+    },
+    {
+      "codiceST": "BY",
+      "stato": "Belarus"
+    },
+    {
+      "codiceST": "MN",
+      "stato": "Mongolia"
+    },
+    {
+      "codiceST": "MO",
+      "stato": "Macao"
+    },
+    {
+      "codiceST": "HK",
+      "stato": "Hong Kong"
+    },
+    {
+      "codiceST": "KP",
+      "stato": "Korea, Democratic People's Republic of"
+    },
+    {
+      "codiceST": "KR",
+      "stato": "Korea, Republic of"
+    },
+    {
+      "codiceST": "PM",
+      "stato": "Saint Pierre and Miquelon"
+    },
+    {
+      "codiceST": "MF",
+      "stato": "Saint Martin (French part)"
+    },
+    {
+      "codiceST": "BL",
+      "stato": "Saint Barthélemy"
+    },
+    {
+      "codiceST": "AS",
+      "stato": "American Samoa"
+    },
+    {
+      "codiceST": "CK",
+      "stato": "Cook Islands"
+    },
+    {
+      "codiceST": "PF",
+      "stato": "French Polynesia"
+    },
+    {
+      "codiceST": "SB",
+      "stato": "Solomon Islands"
+    },
+    {
+      "codiceST": "UM",
+      "stato": "United States Minor Outlying Islands"
+    },
+    {
+      "codiceST": "AU",
+      "stato": "Australia"
+    },
+    {
+      "codiceST": "NZ",
+      "stato": "New Zealand"
+    },
+    {
+      "codiceST": "PG",
+      "stato": "Papua New Guinea"
+    },
+    {
+      "codiceST": "KI",
+      "stato": "Kiribati"
+    },
+    {
+      "codiceST": "PT",
+      "stato": "Portugal"
+    },
+    {
+      "codiceST": "FR",
+      "stato": "France"
+    },
+    {
+      "codiceST": "GR",
+      "stato": "Greece"
+    },
+    {
+      "codiceST": "ES",
+      "stato": "Spain"
+    },
+    {
+      "codiceST": "IT",
+      "stato": "Italy"
+    },
+    {
+      "codiceST": "RS",
+      "stato": "Serbia"
+    },
+    {
+      "codiceST": "BR",
+      "stato": "Brazil"
+    },
+    {
+      "codiceST": "CL",
+      "stato": "Chile"
+    },
+    {
+      "codiceST": "CO",
+      "stato": "Colombia"
+    },
+    {
+      "codiceST": "EC",
+      "stato": "Ecuador"
+    },
+    {
+      "codiceST": "AR",
+      "stato": "Argentina"
+    },
+    {
+      "codiceST": "PR",
+      "stato": "Puerto Rico"
+    },
+    {
+      "codiceST": "AN",
+      "stato": "Netherlands Antilles"
+    },
+    {
+      "codiceST": "EG",
+      "stato": "Egypt"
+    },
+    {
+      "codiceST": "MU",
+      "stato": "Mauritius"
+    },
+    {
+      "codiceST": "SC",
+      "stato": "Seychelles"
+    },
+    {
+      "codiceST": "GQ",
+      "stato": "Equatorial Guinea"
+    },
+    {
+      "codiceST": "ZA",
+      "stato": "South Africa"
+    },
+    {
+      "codiceST": "AO",
+      "stato": "Angola"
+    },
+    {
+      "codiceST": "NA",
+      "stato": "Namibia"
+    },
+    {
+      "codiceST": "MX",
+      "stato": "Mexico"
+    },
+    {
+      "codiceST": "CR",
+      "stato": "Costa Rica"
+    },
+    {
+      "codiceST": "HN",
+      "stato": "Honduras"
+    },
+    {
+      "codiceST": "NI",
+      "stato": "Nicaragua"
+    },
+    {
+      "codiceST": "GS",
+      "stato": "South Georgia and the South Sandwich Islands"
+    },
+    {
+      "codiceST": "RU",
+      "stato": "Russian Federation"
+    },
+    {
+      "codiceST": "UA",
+      "stato": "Ukraine"
+    },
+    {
+      "codiceST": "CN",
+      "stato": "China"
+    },
+    {
+      "codiceST": "TW",
+      "stato": "Taiwan, Province of China"
+    },
+    {
+      "codiceST": "JP",
+      "stato": "Japan"
+    },
+    {
+      "codiceST": "CA",
+      "stato": "Canada"
+    },
+    {
+      "codiceST": "SH",
+      "stato": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+      "codiceST": "CW",
+      "stato": "Curaçao"
+    },
+    {
+      "codiceST": "SX",
+      "stato": "Sint Maarten (Dutch part)"
+    },
+    {
+      "codiceST": "BQ",
+      "stato": "Bonaire, Sint Eustatius and Saba"
+    },
+    {
+      "codiceST": "SS",
+      "stato": "South Sudan"
+    },
+    {
+      "codiceST": "TF",
+      "stato": "French Southern Territories"
+    },
+    {
+      "codiceST": "FM",
+      "stato": "Micronesia, Federated States of "
+    },
+    {
+      "codiceST": "VE",
+      "stato": "Venezuela, Bolivarian Republic of"
+    },
+    {
+      "codiceST": "PS",
+      "stato": "Palestine, State of"
+    },
+    {
+      "codiceST": "CZ",
+      "stato": "Czechia"
+    },
+    {
+      "codiceST": "CV",
+      "stato": "Cabo Verde"
+    },
+    {
+      "codiceST": "SZ",
+      "stato": "Eswatini"
+    },
+    {
+      "codiceST": "ST",
+      "stato": "Sao Tome and Principe"
+    },
+    {
+      "codiceST": "MK",
+      "stato": "North Macedonia"
+    },
+    {
+      "codiceST": "BO",
+      "stato": "Bolivia, Plurinational State of"
+    },
+    {
+      "codiceST": "MD",
+      "stato": "Moldova, Republic of"
+    },
+    {
+      "codiceST": "GB",
+      "stato": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    {
+      "codiceST": "US",
+      "stato": "United States of America"
+    },
+    {
+      "codiceST": "TR",
+      "stato": "Türkiye"
+    }
+  ]
